@@ -20,7 +20,6 @@
 ### [Indicadores Educacionais](http://portal.inep.gov.br/indicadores-educacionais)
 > Notas dos alunos, Média de Alunos por Turma, Média de Horas-Aula diária, Taxas de distorção idade-série, Taxas de Rendimento, Percentual de Docentes com Curso Superior 
 
-
 ### [SIGA Brasil **Senado Brasileiro**](http://www12.senado.gov.br/orcamento/sigabrasil)
 > O SIGA Brasil é um sistema de informações sobre orçamento público, que permite acesso amplo e facilitado ao SIAFI e a outras bases de dados sobre planos e orçamentos públicos, por meio de uma única ferramenta de consulta. Use os links à direita para acessar o sistema mediante acesso livre ou especialista. 
 
@@ -28,7 +27,6 @@
 > Matrículas, coeficientes de distribuição de recursos e receita anual prevista por Estado e Município.
 
 ### [API inep dados abertos](https://github.com/inepdadosabertos/api/)
-> Sem descrição
 
 ### [Portal Brasileiro de dados abertos](http://dados.gov.br/group/educacao)
 > Conjuntos de dados relacionados ao macro-assunto Educação no VCGE. 
@@ -39,3 +37,8 @@
 ### [Dados Abertos SICONV](http://api.convenios.gov.br/siconv/doc/)
 > A prestação de dados como um serviço governamental traz vantagens pra toda a sociedade, incluindo o próprio governo. O Ministério do Planejamento, Orçamento e Gestão está economizando recursos através da publicação dessas informações na Internet.
 A disponibilização dos dados do SICONV é um compromisso firmado pelo governo brasileiro na Parceria para Governo Aberto (Open Government Partnership - OGP do inglês). O governo está comprometido em promover a transparência dos gastos públicos, fornecer informações de valor agregado à sociedade e promover a pesquisa e inovação tecnológica através da implementação da políticas brasileira de dados abertos. Essa API está sendo desenvolvida como parte da Infraestrutura Nacional de Dados Abertos - INDA.
+
+### [Dados Abertos BR - Educação] (http://educacao.dadosabertosbr.com/api)
+> Os dados do INEP não são publicados segundo os conceitos internacionais de dados abertos, sendo disponibilizados em páginas HTML sob diversas formas, desde grandes arquivos compactados contendo os dados, até "sistemas" feitos no excel. Isto leva a muitos problemas e dificuldades na utilização desses dados pela população, inclusive no desenvolvimento de aplicações como este projeto.
+Com o objetivo de melhorar a disponibilização desses dados, de forma a incentivar o uso dos mesmos para geração de novas iniciativas por terceiros, criamos esta API (Application Programming Interface) para republicação dos dados. Ela ainda está na primeira versão, mas já completa. Objetivamos sempre atualiza-la e melhora-la.
+A API contém principalmente os dados das escolas e das estatísticas. O acesso é via chamadas HTTP (REST) e o retorno é sempre no formato JSON. Abaixo seguem os detalhes da API.
