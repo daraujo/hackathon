@@ -39,3 +39,9 @@
 ### [Dados Abertos SICONV](http://api.convenios.gov.br/siconv/doc/)
 > A prestação de dados como um serviço governamental traz vantagens pra toda a sociedade, incluindo o próprio governo. O Ministério do Planejamento, Orçamento e Gestão está economizando recursos através da publicação dessas informações na Internet.
 A disponibilização dos dados do SICONV é um compromisso firmado pelo governo brasileiro na Parceria para Governo Aberto (Open Government Partnership - OGP do inglês). O governo está comprometido em promover a transparência dos gastos públicos, fornecer informações de valor agregado à sociedade e promover a pesquisa e inovação tecnológica através da implementação da políticas brasileira de dados abertos. Essa API está sendo desenvolvida como parte da Infraestrutura Nacional de Dados Abertos - INDA.
+
+### [Data Rio Educação] (http://data.rio/dataset?q=educa%C3%A7%C3%A3o)
+> Os dados abertos, no Portal, são organizados de tal maneira que permita sua reutilização em aplicativos digitais desenvolvidos pela sociedade. Isso proporciona ao cidadão um melhor entendimento do governo municipal, no acesso aos serviços públicos, no controle das contas públicas e na participação no planejamento, desenvolvimento das políticas públicas e melhor conhecimento da cidade.
+
+### [Open Knowledge Brasil] (http://br.okfn.org/)
+> Página do capítulo brasileiro da Open Knowledge Internacional no Brasil (OKBrasil ou OKBr), a Rede pelo Conhecimento Livre. A Open Knowledge Brasil é uma organização da sociedade civil sem fins lucrativos e apartidária, regida pelo seguinte estatuto, decidido em assembléia realizada no dia 4 de setembro de 2013, sendo reconhecida em cartório no dia 3 de outubro de 2013. Nós representamos a Open Knowledge no Brasil a partir de um acordo firmado em 2013.
