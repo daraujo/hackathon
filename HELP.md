@@ -41,3 +41,7 @@
 A disponibilização dos dados do SICONV é um compromisso firmado pelo governo brasileiro na Parceria para Governo Aberto (Open Government Partnership - OGP do inglês). O governo está comprometido em promover a transparência dos gastos públicos, fornecer informações de valor agregado à sociedade e promover a pesquisa e inovação tecnológica através da implementação da políticas brasileira de dados abertos. Essa API está sendo desenvolvida como parte da Infraestrutura Nacional de Dados Abertos - INDA.
 
 ### [IBGE Educação] (http://seriesestatisticas.ibge.gov.br/lista_tema.aspx?op=0&no=4)
+
+### [IBGE Educação] (http://www.sidra.ibge.gov.br/pnad/pnadace.asp?o=7&i=P)
+
+### [FNDE - Fundeb] (http://www.fnde.gov.br/financiamento/fundeb/fundeb-dados-estatisticos)
